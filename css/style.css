@@ -1,0 +1,48 @@
+#menu{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0px 5px 5px 5px;
+    margin: 0px 0px 25px 0px;
+    font-size: 25px;
+}
+
+/*#img{
+    text-align: justify;
+    margin: -30px -30px -30px -30px;
+}*/
+
+#s4{
+    text-align: center;
+}
+ #fiminicio{
+    text-align: center;
+    margin-bottom: 40px;
+ }
+
+#itens-menu{
+  display: flex;
+  justify-content: space-around;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-decoration: none;
+}
+#logo{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.cor-menu{
+    color: black;
+}
+
+#logo{
+    background-color: white;
+}
+
+P{
+    text-align: justify;
+}
+
+#areas{
+     margin-left: 50px;
+}
+ 
